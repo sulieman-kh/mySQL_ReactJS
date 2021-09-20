@@ -1,0 +1,27 @@
+{
+  "name": "mysql_nodejs",
+  "version": "1.0.0",
+  "description": "mysql, nodejs, reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulieman-kh"
+  },
+  "keywords": [
+    "mysql",
+    "reactjs",
+    "nodejs"
+  ],
+  "author": "sulieman khaddour",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
